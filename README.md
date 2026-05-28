@@ -1,4 +1,4 @@
-![banner](banner.svg)
+![banner](https://raw.githubusercontent.com/pavithraax/pavithraax/main/banner.svg)
 
 # Hi, I'm Pavithraa 👋
 ### 2nd Year CS Engineering Student · PES University, Bengaluru
