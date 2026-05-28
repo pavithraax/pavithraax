@@ -6,6 +6,7 @@
 ---
 
 > *I build things that work — embedded firmware, full-stack apps, and everything in between.*
+
 > Currently chasing: **software engineering internships** → systems that actually matter.
 
 ---
