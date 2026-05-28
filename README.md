@@ -43,7 +43,7 @@ Systems-Oriented SW     →  making code that runs close to the metal
 
 ## 📬 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d2035?style=flat&logo=linkedin&logoColor=93c5fd)](https://linkedin.com/in/pavithraax)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d2035?style=flat&logo=linkedin&logoColor=93c5fd)](https://www.linkedin.com/in/pavithra-reddy-290975371/)
 
 ---
 
