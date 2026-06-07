@@ -42,30 +42,13 @@ $ ls ./stack
 </div>
 
 $ cat now.log
-  🔨  Building — full-stack projects with the MERN stack, shipping real features end to end
-  📡  Exploring — embedded systems & IoT: ESP32, sensors, hardware-software interfaces
-  🧠  Sharpening — DSA fundamentals, problem solving, CS core
-  🔬  Curious about — Edge-AI · Computer Vision · Robotics · Autonomous Systems · Sensor Fusion
-  ⚡  Stack in focus — React · Node · MongoDB · C/C++ · Python · TensorFlow
+🔨 Buildingfull-stack projects with the MERN stack, shipping real features end to end📡 Exploringembedded systems & IoT — ESP32, sensors, hardware-software interfaces🧠 SharpeningDSA fundamentals, problem solving, CS core🔬 Curious aboutEdge-AI · Computer Vision · Robotics · Autonomous Systems · Sensor Fusion⚡ Stack in focusReact · Node · MongoDB · C/C++ · Python · TensorFlow
 
 $ interests --deep
-<div align="center">
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-</div>
 
-<div align="center">
-Show Image  
-Show Image
-</div>
+🤖 Edge-AI & Embedded Intelligence  ·  🦾 Robotics & Autonomous Systems  ·  👁️ Computer Vision & Real-time Processing
+🌐 IoT & Smart Systems  ·  📡 Sensor Fusion (LiDAR · Camera · IMU)  ·  🧪 AI & ML Frameworks
 
-<div align="center">
-// i like problems that don't have clean solutions yet
-</div>
 
 <div align="center">
 Show Image  
