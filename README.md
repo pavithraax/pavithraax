@@ -1,12 +1,12 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1500&color=A78BFA&center=true&vCenter=true&multiline=true&width=700&height=100&lines=hi%2C+i'm+pavithraa+%F0%9F%91%BE;cs+student+%C2%B7+builder+%C2%B7+researcher)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=1500&color=A78BFA&center=true&vCenter=true&multiline=true&width=700&height=100&lines=hi%2C+i'm+pavithraa+%F0%9F%91%BE;cs+student+%C2%B7+builder+%C2%B7+researcher)](https://git.io/typing-svg)
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=4000&pause=2000&color=94A3B8&center=true&vCenter=true&width=700&lines=3rd+year+CSE+%40+PES+University%2C+Bengaluru;grinding+DSA+%C2%B7+shipping+MERN+projects+%C2%B7+writing+a+research+paper;systems+thinking+%C2%B7+embedded+firmware+%C2%B7+full-stack)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=4000&pause=2000&color=94A3B8&center=true&vCenter=true&width=700&lines=3rd+year+CSE+%40+PES+University%2C+Bengaluru;grinding+DSA+%C2%B7+shipping+MERN+projects+%C2%B7+;systems+thinking+%C2%B7+embedded+firmware+%C2%B7+full-stack)](https://git.io/typing-svg)
 
 </div>
 
