@@ -38,33 +38,24 @@ Always building something. Always learning something harder.
 
 $ ls ./stack
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,c,cpp,react,nodejs,express,mongodb,html,css,tailwind&perline=5&theme=dark" />
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv,arduino,raspberrypi,git,linux,github,vscode,postman&perline=5&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,react,nodejs,express,mongodb,html,css,tailwind,tensorflow,opencv,arduino,raspberrypi,git,linux,github,vscode,postman&perline=10&theme=dark" />
 </div>
 
+$ cat now.log
+  🔨  Building — full-stack projects with the MERN stack, shipping real features end to end
+  📡  Exploring — embedded systems & IoT: ESP32, sensors, hardware-software interfaces
+  🧠  Sharpening — DSA fundamentals, problem solving, CS core
+  🔬  Curious about — Edge-AI · Computer Vision · Robotics · Autonomous Systems · Sensor Fusion
+  ⚡  Stack in focus — React · Node · MongoDB · C/C++ · Python · TensorFlow
+
+$ interests --deep
 <div align="center">
-<table border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td valign="top">
-currently
-  DSA              →  actively solving, improving every day
-  MERN stack       →  building and shipping projects
-  embedded & IoT   →  ESP32, sensors, hardware-software bridge
-  interests        →  Edge-AI · Robotics · Computer Vision
-                       IoT & Smart Systems · Sensor Fusion
-                       AI/ML frameworks & tools
-</td>
-<td width="30"></td>
-<td valign="top">
-beyond the screen
-  classical dance  →  junior exam certified
-  music
-  college sports  
-  clubs            →  Samarpana · Aikyaa
-                       Aatmatrisha · TAMS
-</td>
-</tr>
-</table>
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
 </div>
 
 <div align="center">
