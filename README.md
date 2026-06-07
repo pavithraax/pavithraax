@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=1500&color=A78BFA&center=true&vCenter=true&width=700&height=80&lines=hey%2C+i'm+pavithraa+%F0%9F%91%BE)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=17&duration=3500&pause=1800&color=60A5FA&center=true&vCenter=true&width=700&lines=cs+student+who+actually+learns+builds+things;full-stack+%C2%B7+systems+%C2%B7+embedded;PES+University%2C+Bengaluru+%C2%B7+3rd+year)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=17&duration=3500&pause=1800&color=60A5FA&center=true&vCenter=true&width=700&lines=cs+student+who+actually+learns+and+builds+things;full-stack+%C2%B7+systems+%C2%B7+embedded;PES+University%2C+Bengaluru+%C2%B7+3rd+year+student)](https://git.io/typing-svg)
 
 <br/>
 
