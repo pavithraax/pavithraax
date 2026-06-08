@@ -6,10 +6,6 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/-pavithraa-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavithra-reddy-290975371/)
-[![GitHub](https://img.shields.io/badge/-pavithraax-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pavithraax)
-
-
 </div>
 
 ---
@@ -77,4 +73,10 @@ Currently deep in **MERN stack** development and sharpening fundamentals across 
  i like working on problems that don't have clean solutions yet 
 ```
 
+</div>
+<br/>
+[![LinkedIn](https://img.shields.io/badge/-pavithraa-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavithra-reddy-290975371/)
+[![GitHub](https://img.shields.io/badge/-pavithraax-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pavithraax)
+
+ 
 </div>
