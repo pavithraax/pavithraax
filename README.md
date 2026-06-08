@@ -57,20 +57,15 @@ Currently deep in **MERN stack** development and sharpening fundamentals across 
 
 <div align="center">
 
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pavithraax&theme=tokyonight)](https://github.com/pavithraax)
-
-[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pavithraax&theme=tokyonight)](https://github.com/pavithraax)
-&nbsp;
-[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pavithraax&theme=tokyonight)](https://github.com/pavithraax)
-
-*`// i like problems that don't have clean solutions yet`*
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavithraax&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=e2e8f0&cache_seconds=1800)](https://github.com/pavithraax)
+&nbsp;&nbsp;
+[![GitHub Streak](https://streak-stats.demolab.com?user=pavithraax&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=60A5FA&currStreakLabel=A78BFA)](https://github.com/pavithraax)
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/-pavithraa-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/pavithra-reddy-290975371)
+*`i like working on problems that don't have clean solutions yet`*
+
+[![LinkedIn](https://img.shields.io/badge/-pavithraa-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavithra-reddy-290975371/)
 [![GitHub](https://img.shields.io/badge/-pavithraax-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pavithraax)
-
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%"/>
