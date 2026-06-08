@@ -1,10 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=pavithraa&fontSize=65&fontColor=ffffff&fontAlignY=45&desc=cs%20student%20%E2%80%A2%20builder%20%E2%80%A2%20pes%20university%20bengaluru&descSize=16&descAlignY=68&descAlign=50&animation=twinkling" width="100%"/>
-<div align="left">
-&nbsp;&nbsp;&nbsp; **hi, i'm pavithraa** 👾
+
+raw
+Readme · MD
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=220&section=header&animation=twinkling&fontSize=1&text=%20" width="100%"/>
+<h1><span style="background: linear-gradient(90deg, #A78BFA, #60A5FA, #34D399); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">hi, i'm pavithraa 👾</span></h1>
  
-&nbsp;&nbsp;&nbsp; <sub>3rd year CSE &nbsp;·&nbsp; PES University, Bengaluru &nbsp;·&nbsp; class of '28 &nbsp;·&nbsp; full-stack · systems · embedded</sub>
- 
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=3500&pause=1800&color=94A3B8&center=false&vCenter=true&width=500&lines=3rd+year+CSE+%40+PES+University%2C+Bengaluru;full-stack+%C2%B7+systems+%C2%B7+embedded+%C2%B7+class+of+%2728)](https://git.io/typing-svg)
 ---
 ---
 
