@@ -15,56 +15,34 @@
 ---
 
 <img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=pavithraax&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=60A5FA&text_color=e2e8f0&count_private=true" />
+
 ## 👩‍💻 about me
-
-<br/>
-
-3rd year CS student at PES University who likes understanding **how things actually work** — not just using abstractions but knowing what's underneath them.
-
+ 
+3rd year CS student who likes understanding **how things actually work** — not just using abstractions but knowing what's underneath them.
+ 
 I've built across the stack: firmware on microcontrollers, SDN controllers, full-stack web apps, network diagnostic tools from raw sockets up. I like problems that sit at the boundary between software and something real — hardware, networks, systems.
-
+ 
 Currently deep in **MERN stack** development and sharpening fundamentals across systems, networks, and low-level programming.
-
-<br/>
-
-<sub>💼 &nbsp;open to internship opportunities — software &nbsp;·&nbsp; systems &nbsp;·&nbsp; full-stack</sub>
-
-<br/>
-<br/>
-
+ 
+![](https://img.shields.io/badge/💼%20open%20to%20internship%20opportunities-software%20·%20systems%20·%20full--stack-555555?style=flat-square)
+ 
+---
+ 
 ## 🛠️ tech stack
-
-<br/>
-
-**languages** &nbsp;&nbsp;&nbsp; ![Python](https://skillicons.dev/icons?i=python&theme=dark) &nbsp; ![C](https://skillicons.dev/icons?i=c&theme=dark) &nbsp; ![C++](https://skillicons.dev/icons?i=cpp&theme=dark)
-
-<br/>
-
-**web** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![React](https://skillicons.dev/icons?i=react&theme=dark) &nbsp; ![Node](https://skillicons.dev/icons?i=nodejs&theme=dark) &nbsp; ![Express](https://skillicons.dev/icons?i=express&theme=dark) &nbsp; ![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=dark) &nbsp; ![HTML](https://skillicons.dev/icons?i=html&theme=dark) &nbsp; ![CSS](https://skillicons.dev/icons?i=css&theme=dark) &nbsp; ![Tailwind](https://skillicons.dev/icons?i=tailwind&theme=dark)
-
-<br/>
-
-**AI / ML** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![TensorFlow](https://skillicons.dev/icons?i=tensorflow&theme=dark) &nbsp; ![OpenCV](https://skillicons.dev/icons?i=opencv&theme=dark)
-
-<br/>
-
-**tools** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Git](https://skillicons.dev/icons?i=git&theme=dark) &nbsp; ![Linux](https://skillicons.dev/icons?i=linux&theme=dark) &nbsp; ![GitHub](https://skillicons.dev/icons?i=github&theme=dark) &nbsp; ![VSCode](https://skillicons.dev/icons?i=vscode&theme=dark) &nbsp; ![Postman](https://skillicons.dev/icons?i=postman&theme=dark)
-
-<br/>
-
-**hardware** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Arduino](https://skillicons.dev/icons?i=arduino&theme=dark) &nbsp; ![RaspberryPi](https://skillicons.dev/icons?i=raspberrypi&theme=dark) &nbsp;&nbsp; `ESP32` &nbsp; `IR / Ultrasonic / PIR Sensors` &nbsp; `Servo Motors`
-
-<br/>
-
-**networking** &nbsp;&nbsp;&nbsp; `Raw TCP/IP Sockets` &nbsp; `ICMP` &nbsp; `SDN / POX` &nbsp; `OpenFlow`
-
-<br/>
-<br/>
-
+ 
+| | |
+|---|---|
+| **languages** | <img src="https://skillicons.dev/icons?i=python,c,cpp&theme=dark&perline=10" height="30"/> |
+| **web** | <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,html,css,tailwind&theme=dark&perline=10" height="30"/> |
+| **AI / ML** | <img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark&perline=10" height="30"/> |
+| **tools** | <img src="https://skillicons.dev/icons?i=git,linux,github,vscode,postman&theme=dark&perline=10" height="30"/> |
+| **hardware** | <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark&perline=10" height="30"/> &nbsp; `ESP32` `sensors` `servo motors` |
+| **networking** | `TCP/IP` `ICMP` `SDN/POX` `OpenFlow` |
+ 
+---
+ 
 ## 🚀 what i'm working on
-
-<br/>
-
+ 
 ```
   building      →  full-stack MERN projects, shipping real features end to end
   exploring     →  embedded systems & IoT — ESP32, sensors, hardware-software bridge
@@ -72,14 +50,11 @@ Currently deep in **MERN stack** development and sharpening fundamentals across 
   learning      →  TensorFlow, OpenCV, NLP pipelines, ChromaDB
   curious about →  Edge-AI · Computer Vision · Robotics · Autonomous Systems
 ```
-
-<br/>
-<br/>
-
+ 
+---
+ 
 ## 🔬 interests
-
-<br/>
-
+ 
 ```
   ▸  Edge-AI & Embedded Intelligence
   ▸  Robotics & Autonomous Systems
@@ -88,21 +63,18 @@ Currently deep in **MERN stack** development and sharpening fundamentals across 
   ▸  Sensor Fusion — LiDAR · Camera · IMU
   ▸  AI / ML Frameworks & Tools
 ```
-
-<br/>
-<br/>
-
+ 
+---
+ 
 <div align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavithraax&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=e2e8f0&cache_seconds=1800)](https://github.com/pavithraax)
-&nbsp;&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavithraax&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=e2e8f0)](https://github.com/pavithraax)
+&nbsp;
 [![GitHub Streak](https://streak-stats.demolab.com?user=pavithraax&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=60A5FA&currStreakLabel=A78BFA)](https://github.com/pavithraax)
-
+ 
 <br/>
-
 ```
 // i like problems that don't have clean solutions yet
 ```
-
+ 
 </div>
-
+ 
