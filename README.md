@@ -17,55 +17,56 @@
 <img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=pavithraax&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=60A5FA&text_color=e2e8f0&count_private=true" />
 
 $ cat about_me.txt
-<img align="right" width="370" src="https://github-readme-stats.vercel.app/api?username=pavithraax&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=60A5FA&text_color=e2e8f0&count_private=true" />
 3rd year CS student who likes understanding how things actually work — not just using abstractions but knowing what's underneath them.
 I've built across the stack: firmware on microcontrollers, SDN controllers, full-stack web apps, network diagnostic tools from raw sockets up. I like problems that sit at the boundary between software and something real — hardware, networks, systems.
 Currently deep in MERN stack development and sharpening fundamentals across systems, networks, and low-level programming.
 
-open to internship opportunities — software, systems, full-stack
+open to internship opportunities — software · systems · full-stack
 
-<br clear="right"/>
 
 $ ls ./stack
+<div align="center">
 languages
-Show Image
-Show Image
-Show Image
+<br/>
+<img src="https://skillicons.dev/icons?i=python,c,cpp&theme=dark" />
+<br/>
 web
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,html,css,tailwind&theme=dark" />
+<br/>
 AI / ML
-Show Image
-Show Image
+<br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark" />
+<br/>
 hardware & embedded
-Show Image
-Show Image
-Show Image
+<br/>
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" />
+<br/>
+ESP32  IR Sensors  Ultrasonic  PIR  Mic Sensors  Servo Motors
+<br/>
+networking
+<br/>
+Raw TCP/IP Sockets  ICMP  SDN / POX  OpenFlow
+<br/>
 tools
-Show Image
-Show Image
-Show Image
-Show Image
+<br/>
+<img src="https://skillicons.dev/icons?i=git,linux,github,vscode,postman&theme=dark" />
+</div>
 
 $ cat now.log
-
-🔨 Building — full-stack projects with the MERN stack, shipping real features end to end
-📡 Exploring — embedded systems & IoT: ESP32, sensors, hardware-software interfaces
-🧠 Sharpening — DSA fundamentals and core CS problem solving
-🔬 Curious about — Edge-AI · Computer Vision · Robotics · Autonomous Systems · Sensor Fusion
-🧪 Learning — AI/ML frameworks: TensorFlow, OpenCV, NLP, ChromaDB
-
+  building      →  full-stack MERN projects, shipping real features end to end
+  exploring     →  embedded systems & IoT — ESP32, sensors, hardware-software bridge
+  sharpening    →  DSA + core CS fundamentals, daily problem solving
+  learning      →  TensorFlow, OpenCV, NLP pipelines, ChromaDB
+  curious about →  Edge-AI · Computer Vision · Robotics · Autonomous Systems
 
 $ interests --deep
-
-🤖 Edge-AI & Embedded Intelligence  ·  🦾 Robotics & Autonomous Systems  ·  👁️ Computer Vision & Real-time Processing
-🌐 IoT & Smart Systems  ·  📡 Sensor Fusion (LiDAR · Camera · IMU)  ·  🧪 AI & ML Frameworks
-
+  ▸  Edge-AI & Embedded Intelligence
+  ▸  Robotics & Autonomous Systems
+  ▸  Computer Vision & Real-time Processing
+  ▸  IoT & Smart Systems
+  ▸  Sensor Fusion — LiDAR · Camera · IMU
+  ▸  AI / ML Frameworks & Tools
 
 <div align="center">
 Show Image  
