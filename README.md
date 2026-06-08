@@ -16,33 +16,50 @@
 
 <img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=pavithraax&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=60A5FA&text_color=e2e8f0&count_private=true" />
 
-### `about me`
+$ cat about_me.txt
+<img align="right" width="370" src="https://github-readme-stats.vercel.app/api?username=pavithraax&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=60A5FA&text_color=e2e8f0&count_private=true" />
+3rd year CS student who likes understanding how things actually work — not just using abstractions but knowing what's underneath them.
+I've built across the stack: firmware on microcontrollers, SDN controllers, full-stack web apps, network diagnostic tools from raw sockets up. I like problems that sit at the boundary between software and something real — hardware, networks, systems.
+Currently deep in MERN stack development and sharpening fundamentals across systems, networks, and low-level programming.
 
-3rd year CS student who likes understanding **how things actually work** —
-not just using abstractions but knowing what's underneath them.
-
-I've built across the stack: firmware on microcontrollers, SDN controllers,
-full-stack web apps, network diagnostic tools from raw sockets up.
-I like problems that sit at the boundary between software and something real —
-hardware, networks, systems.
-
-Currently deep in **MERN stack** development and sharpening
-fundamentals across systems, networks, and low-level programming.
-Always building something. Always learning something harder.
-
-> *open to internship opportunities — software, systems, full-stack*
+open to internship opportunities — software, systems, full-stack
 
 <br clear="right"/>
 
----
-
 $ ls ./stack
-<div align="center">
-<img src="https://skillicons.dev/icons?i=python,c,cpp,react,nodejs,express,mongodb,html,css,tailwind,tensorflow,opencv,arduino,raspberrypi,git,linux,github,vscode,postman&perline=10&theme=dark" />
-</div>
+languages
+Show Image
+Show Image
+Show Image
+web
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+AI / ML
+Show Image
+Show Image
+hardware & embedded
+Show Image
+Show Image
+Show Image
+tools
+Show Image
+Show Image
+Show Image
+Show Image
 
 $ cat now.log
-🔨 Buildingfull-stack projects with the MERN stack, shipping real features end to end📡 Exploringembedded systems & IoT — ESP32, sensors, hardware-software interfaces🧠 SharpeningDSA fundamentals, problem solving, CS core🔬 Curious aboutEdge-AI · Computer Vision · Robotics · Autonomous Systems · Sensor Fusion⚡ Stack in focusReact · Node · MongoDB · C/C++ · Python · TensorFlow
+
+🔨 Building — full-stack projects with the MERN stack, shipping real features end to end
+📡 Exploring — embedded systems & IoT: ESP32, sensors, hardware-software interfaces
+🧠 Sharpening — DSA fundamentals and core CS problem solving
+🔬 Curious about — Edge-AI · Computer Vision · Robotics · Autonomous Systems · Sensor Fusion
+🧪 Learning — AI/ML frameworks: TensorFlow, OpenCV, NLP, ChromaDB
+
 
 $ interests --deep
 
