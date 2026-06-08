@@ -1,5 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:A855F7&height=140&section=header&animation=twinkling" width="100%"/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,50:6366F1,100:3B82F6&height=80&section=header&reversal=true&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B0764,30:4F46E5,60:7C3AED,100:2563EB&height=240&section=header&text=hi,%20i'm%20pavithraa%20%F0%9F%91%BE&fontSize=40&fontColor=ffffff&fontAlignY=50&desc=cs%20student%20%E2%80%A2%20full-stack%20%E2%80%A2%20systems%20%E2%80%A2%20embedded%20%E2%80%A2%20pes%20university%20%E2%80%A2%20class%20of%20%2728&descSize=14&descAlignY=70&descColor=c4b5fd&animation=twinkling" width="100%"/
 <h1>hi, i'm pavithraa 👾</h1>
  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=3500&pause=1800&color=94A3B8&center=false&vCenter=true&width=500&lines=3rd+year+CSE+%40+PES+University%2C+Bengaluru;full-stack+%C2%B7+systems+%C2%B7+embedded+%C2%B7+class+of+%2728)](https://git.io/typing-svg)
