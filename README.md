@@ -1,11 +1,11 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=pavithraa&fontSize=60&fontColor=ffffff&fontAlignY=45&animation=fadeIn" width="100%"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1800&color=60A5FA&center=true&vCenter=true&width=700&lines=cs+student+who+actually+ships+things;full-stack+%C2%B7+systems+%C2%B7+embedded+%C2%B7+whatever+it+takes;PES+University%2C+Bengaluru+%C2%B7+class+of+%2728)](https://git.io/typing-svg)
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=pavithraa&fontSize=65&fontColor=ffffff&fontAlignY=45&desc=cs%20student%20%E2%80%A2%20builder%20%E2%80%A2%20pes%20university%20bengaluru&descSize=16&descAlignY=68&descAlign=50&animation=twinkling" width="100%"/>
+<div align="left">
+&nbsp;&nbsp;&nbsp; **hi, i'm pavithraa** 👾
+ 
+&nbsp;&nbsp;&nbsp; <sub>3rd year CSE &nbsp;·&nbsp; PES University, Bengaluru &nbsp;·&nbsp; class of '28 &nbsp;·&nbsp; full-stack · systems · embedded</sub>
+ 
 </div>
-
+---
 ---
 
 ## 👩‍💻 about me
