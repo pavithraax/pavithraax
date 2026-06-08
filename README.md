@@ -74,7 +74,7 @@ Currently deep in **MERN stack** development and sharpening fundamentals across 
 <br/>
 
 ```
- i like problems that don't have clean solutions yet 
+ i like working on problems that don't have clean solutions yet 
 ```
 
 </div>
