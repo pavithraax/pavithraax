@@ -15,12 +15,11 @@
 ---
 
 <img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=pavithraax&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=60A5FA&text_color=e2e8f0&count_private=true" />
-
 ## 👩‍💻 about me
 
 <br/>
 
-3rd year CS student who likes understanding **how things actually work** — not just using abstractions but knowing what's underneath them.
+3rd year CS student at PES University who likes understanding **how things actually work** — not just using abstractions but knowing what's underneath them.
 
 I've built across the stack: firmware on microcontrollers, SDN controllers, full-stack web apps, network diagnostic tools from raw sockets up. I like problems that sit at the boundary between software and something real — hardware, networks, systems.
 
