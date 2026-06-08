@@ -7,7 +7,7 @@
 
 ## 👩‍💻 about me
 
-3rd year CS student who likes understanding **how things actually work** — not just using abstractions but knowing what's underneath them.
+3rd year CS student at PES University who likes understanding **how things actually work** — not just using abstractions but knowing what's underneath them.
 
 I've built across the stack: firmware on microcontrollers, SDN controllers, full-stack web apps, network diagnostic tools from raw sockets up. I like problems that sit at the boundary between software and something real — hardware, networks, systems.
 
@@ -67,9 +67,9 @@ Currently deep in **MERN stack** development and sharpening fundamentals across 
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/-pavithraa-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pavithraa)
+[![LinkedIn](https://img.shields.io/badge/-pavithraa-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/pavithra-reddy-290975371)
 [![GitHub](https://img.shields.io/badge/-pavithraax-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pavithraax)
-![Visitors](https://komarev.com/ghpvc/?username=pavithraax&style=flat-square&color=A78BFA&label=profile+views)
+
 
 </div>
 
