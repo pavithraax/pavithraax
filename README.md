@@ -1,7 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20,24&height=220&section=header&animation=twinkling&reversal=true" width="100%"/>
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=13&pause=9999999&color=A78BFA&center=true&vCenter=true&width=700&height=25&lines=+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:A855F7&height=140&section=header&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,50:6366F1,100:3B82F6&height=80&section=header&reversal=true&animation=twinkling" width="100%"/>
 <h1>hi, i'm pavithraa 👾</h1>
  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=3500&pause=1800&color=94A3B8&center=false&vCenter=true&width=500&lines=3rd+year+CSE+%40+PES+University%2C+Bengaluru;full-stack+%C2%B7+systems+%C2%B7+embedded+%C2%B7+class+of+%2728)](https://git.io/typing-svg)
