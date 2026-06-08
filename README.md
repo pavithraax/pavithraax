@@ -57,8 +57,6 @@ Currently deep in **MERN stack** development and sharpening fundamentals across 
 
 <div align="center">
 
-[(https://github-readme-stats.vercel.app/api/top-langs/?username=pavithraax&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=e2e8f0&cache_seconds=1800)](https://github.com/pavithraax)
-&nbsp;&nbsp;
 [![GitHub Streak](https://streak-stats.demolab.com?user=pavithraax&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=60A5FA&currStreakLabel=A78BFA)](https://github.com/pavithraax)
 <br/>
 
