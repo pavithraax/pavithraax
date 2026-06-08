@@ -18,7 +18,7 @@
 
 ## 👩‍💻 about me
  
-3rd year CS student who likes understanding **how things actually work** — not just using abstractions but knowing what's underneath them.
+3rd year CS student at PES University who likes understanding **how things actually work** — not just using abstractions but knowing what's underneath them.
  
 I've built across the stack: firmware on microcontrollers, SDN controllers, full-stack web apps, network diagnostic tools from raw sockets up. I like problems that sit at the boundary between software and something real — hardware, networks, systems.
  
@@ -74,7 +74,7 @@ Currently deep in **MERN stack** development and sharpening fundamentals across 
 <br/>
 
 ```
-// i like problems that don't have clean solutions yet
+ i like problems that don't have clean solutions yet 
 ```
 
 </div>
