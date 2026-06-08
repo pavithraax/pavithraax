@@ -1,11 +1,10 @@
-
-raw
-Readme · MD
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=220&section=header&animation=twinkling&fontSize=1&text=%20" width="100%"/>
-<h1><span style="background: linear-gradient(90deg, #A78BFA, #60A5FA, #34D399); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">hi, i'm pavithraa 👾</span></h1>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20,24&height=220&section=header&animation=twinkling&reversal=true" width="100%"/>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=13&pause=9999999&color=A78BFA&center=true&vCenter=true&width=700&height=25&lines=+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F" />
+</div>
+<h1>hi, i'm pavithraa 👾</h1>
  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=3500&pause=1800&color=94A3B8&center=false&vCenter=true&width=500&lines=3rd+year+CSE+%40+PES+University%2C+Bengaluru;full-stack+%C2%B7+systems+%C2%B7+embedded+%C2%B7+class+of+%2728)](https://git.io/typing-svg)
----
 ---
 
 ## 👩‍💻 about me
