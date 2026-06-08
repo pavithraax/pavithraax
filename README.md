@@ -1,5 +1,5 @@
 
-## <span style="color:#A78BFA">hi, i'm pavithraa</span> 👾
+# <span style="color:#60A5FA">hi, i'm pavithraa</span> ✦
  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=3500&pause=1800&color=94A3B8&center=false&vCenter=true&width=500&lines=3rd+year+CSE+%40+PES+University%2C+Bengaluru;full-stack+%C2%B7+systems+%C2%B7+embedded+%C2%B7+class+of+%2728)](https://git.io/typing-svg)
  
