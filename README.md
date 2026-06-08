@@ -67,12 +67,10 @@ Currently deep in **MERN stack** development and sharpening fundamentals across 
 ---
  
 <div align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavithraax&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=e2e8f0&cache_seconds=86400)](https://github.com/pavithraax)
-&nbsp;
-[![Pav's GitHub stats](https://github-readme-stats.vercel.app/api?username=pavithraax&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=60A5FA&text_color=e2e8f0&hide=contribs&cache_seconds=86400)](https://github.com/pavithraax)
- 
+Show Image
+ 
+Show Image
 </div>
 <div align="center">
-*`// i like problems that don't have clean solutions yet`*
- 
+// i like problems that don't have clean solutions yet
 </div>
