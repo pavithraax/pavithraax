@@ -8,7 +8,7 @@
 
 3rd year CS student at PES University, interested in how systems work beneath the abstractions — from hardware to data to the applications built on top of them.
 
-I work across the MERN stack, with a growing focus on big data and applied AI/ML. I also like getting hands-on with hardware and embedded systems when the problem calls for it.
+I work across the MERN stack, with a growing focus on big data and applied AI/ML. I also like getting hands-on with hardware, embedded systems, and 3D/animation work in Blender when the problem calls for it.
 
 Currently sharpening core CS fundamentals and building projects that combine software, data, and systems thinking.
 
@@ -23,6 +23,7 @@ Currently sharpening core CS fundamentals and building projects that combine sof
 | **languages** | <img src="https://skillicons.dev/icons?i=python,c,cpp&theme=dark&perline=10" height="30"/> |
 | **web** | <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,html,css,tailwind&theme=dark&perline=10" height="30"/> |
 | **AI / ML** | <img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark&perline=10" height="30"/> |
+| **3D / creative** | <img src="https://skillicons.dev/icons?i=blender&theme=dark&perline=10" height="30"/> |
 | **tools** | <img src="https://skillicons.dev/icons?i=git,linux,github,vscode,postman&theme=dark&perline=10" height="30"/> |
 | **hardware** | <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark&perline=10" height="30"/> &nbsp; `ESP32` `sensors` `servo motors` |
 
@@ -30,24 +31,26 @@ Currently sharpening core CS fundamentals and building projects that combine sof
 
 ## 🚀 what i'm working on
 
-\`\`\`
+```
   building      →  full-stack MERN projects, shipping real features end to end
   practicing    →  DSA + core CS fundamentals, daily problem solving
   studying      →  big data, machine learning, DBMS
-  exploring     →  AR/VR
+  exploring     →  AR/VR, animation, and game development
+  creating      →  3D renders & animations in Blender
   curious about →  AI, data storage & systems
-\`\`\`
+```
 
 ---
 
 ## 🔬 interests
 
-\`\`\`
+```
   ▸  Edge-AI & Embedded Intelligence
   ▸  Computer Vision & Real-time Processing
   ▸  IoT & Smart Systems
   ▸  AI / ML Frameworks & Tools
-\`\`\`
+  ▸  3D Rendering & Animation
+```
 
 ---
 
